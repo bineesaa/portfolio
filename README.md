@@ -153,9 +153,6 @@ Project Link: [https://github.com/nottherealalanturing/Portfolio](https://github
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
-
-- [@tylher](https://github.com/tylher)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
